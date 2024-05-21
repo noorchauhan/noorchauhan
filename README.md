@@ -1,1 +1,1 @@
-I like exploring deep architectures behind all different types of Machine Intelligence. Bi-directional motion planning, Generalist Artificial Intelligence (GAI), Robot Control planning, Data experiments are some of my area of interest to be specific.
+I like exploring deep architectures behind all different types of Machine Intelligence. Bi-directional motion planning, Generalist Intelligence Models, Robot Control planning, Basic Data experiments are some of my areas of interest.
